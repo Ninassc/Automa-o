@@ -1,3 +1,4 @@
+# projeto automação
 import pyautogui 
 import time
 pyautogui.PAUSE = 1
