@@ -1,0 +1,8 @@
+import pandas
+tabela = pandas.read_csv('produto.csv')
+print(tabela)
+
+import pyautogui
+import time
+print(pyautogui.position())
+time.sleep(8)
